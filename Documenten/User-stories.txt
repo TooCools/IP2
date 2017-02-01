@@ -1,4 +1,4 @@
-- Een organisator kan een nieuw spel starten en beheren
+- Een organisator kan een nieuw spel starten   										3
 	- Naam
 	- Omschrijving
 	- Type piramide
@@ -10,38 +10,39 @@
 	- Einde bepalen
 	- Kiezen of gebruikers commentaar op kaartjes mogen geven
 	- Een spel starten voor de geplande datum
-- Een gebruiker kan gebruikers uitnodigen (e-mailadres, registratie vereist)
-- Een gebruiker kan een spel joinen
-- Een gebruiker kan kaartjes(topics) opstellen (per thema, evt per subset)
-- Een gebruiker kan kaartjes uploaden (CSV)
-- Een gebruiker kan een illustratie toevoegen (optioneel==> LAGE prioriteit) (URL of upload)
-- Een gebruiker kan een aantal kaartjes kiezen en op de piramide leggen
-- Een gebruiker kan zien wie aan beurt is
-- Een gebruiker kan chatten met de actieve spelgroep
-- Een gebruiker kan kaartjes verschuiven
-- Een gebruiker kan een screenshot nemen
-- Een gebruiker kan een account aanmaken (registreren)
-- Een gebruiker kan aanloggen met een Facebook of Google+ account
-- Een gebruiker kan een thema aanmaken en beheren
+- Een organisator kan een nieuw spel beheren										8
+- Een gebruiker kan gebruikers uitnodigen (e-mailadres, registratie vereist)  		 1
+- Een gebruiker kan een spel joinen													 1/2
+- Een gebruiker kan kaartjes(topics) opstellen (per thema, evt per subset)			 2
+- Een gebruiker kan kaartjes uploaden (CSV)											 1
+- Een gebruiker kan een illustratie toevoegen (optioneel==> LAGE prioriteit) (URL of upload)      1
+- Een gebruiker kan een aantal kaartjes kiezen en op de piramide leggen        3
+- Een gebruiker kan zien wie aan beurt is  										1/2
+- Een gebruiker kan chatten met de actieve spelgroep							8
+- Een gebruiker kan kaartjes verschuiven									1
+- Een gebruiker kan een screenshot nemen								    5
+- Een gebruiker kan een account aanmaken (registreren)						3
+- Een gebruiker kan aanloggen met een Facebook of Google+ account			2
+- Een gebruiker kan een thema aanmaken en beheren							3					
 	- Naam
 	- Omschrijving
 	- Tags
 	- Publiek zichtbaar
-- Een organisator kan van andere gebruikers organisatoren maken
-- Een gebruiker kan zijn agenda bekijken (voorbije/actieve/toekomstige spelletjes/sessies)
-- Een gebruiker kan commentaar geven op de kaartjes
-- Een organisator kan een thema clonen
-- Een organisator kan een sessie (+deelnemers) clonen
-- Een gebruiker kan notificaties ontvangen op de smartphone
+- Een organisator kan van andere gebruikers organisatoren maken				1
+- Een gebruiker kan zijn agenda bekijken (voorbije/actieve/toekomstige spelletjes/sessies)  	3
+- Een gebruiker kan commentaar geven op de kaartjes							2
+- Een organisator kan een thema clonen										1
+- Een organisator kan een sessie (+deelnemers) clonen						1
+- Een gebruiker kan notificaties ontvangen op de smartphone					3
 	- Kaartje te kiezen
 	- Aan de beurt
 	- Beurt timer loopt af
 	- ...
-- Een gebruiker kan kiezen of hij notificaties (en welke ==> lage prioriteit)
-- Een gebruiker kan zoeken naar thema's en diens sessies (zoeken op naam, omschrijving, tags)
-- Een gebruiker kan een sessie herbekijken (laatste screenshot)
-- Een organisator kan een link genereren en delen (laatste screenshot sessie, iedereen kan die sessie herbekijken)
-- Een organisator kan een dashboard voor een thema bekijken (analyse van meerdere sessies)
+- Een gebruiker kan kiezen of hij notificaties (en welke ==> lage prioriteit) 		1
+- Een gebruiker kan zoeken naar thema's en diens sessies (zoeken op naam, omschrijving, tags)     2.5
+- Een gebruiker kan een sessie herbekijken (laatste screenshot)								2		
+- Een organisator kan een link genereren en delen (laatste screenshot sessie, iedereen kan die sessie herbekijken)	2
+- Een organisator kan een dashboard voor een thema bekijken (analyse van meerdere sessies)    8
 	- Alle piramides tot 1 piramide brengen
 	- Correlaties tussen 2 paar kaartjes bekijken
 	- Clusteranalyse op de kaartjes
