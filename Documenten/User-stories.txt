@@ -1,0 +1,47 @@
+- Een organisator kan een nieuw spel starten en beheren
+	- Naam
+	- Omschrijving
+	- Type piramide
+	- Datum en tijdstip
+	- Maximale tijd voor gebruikers
+	- kiezen of gebruikers kaartjes kunnen opstellen
+	- Aantal kaartjes per gebruiker (1ste ronde)
+	- Aantal rondes
+	- Einde bepalen
+	- Kiezen of gebruikers commentaar op kaartjes mogen geven
+	- Een spel starten voor de geplande datum
+- Een gebruiker kan gebruikers uitnodigen (e-mailadres, registratie vereist)
+- Een gebruiker kan een spel joinen
+- Een gebruiker kan kaartjes(topics) opstellen (per thema, evt per subset)
+- Een gebruiker kan kaartjes uploaden (CSV)
+- Een gebruiker kan een illustratie toevoegen (optioneel==> LAGE prioriteit) (URL of upload)
+- Een gebruiker kan een aantal kaartjes kiezen en op de piramide leggen
+- Een gebruiker kan zien wie aan beurt is
+- Een gebruiker kan chatten met de actieve spelgroep
+- Een gebruiker kan kaartjes verschuiven
+- Een gebruiker kan een screenshot nemen
+- Een gebruiker kan een account aanmaken (registreren)
+- Een gebruiker kan aanloggen met een Facebook of Google+ account
+- Een gebruiker kan een thema aanmaken en beheren
+	- Naam
+	- Omschrijving
+	- Tags
+	- Publiek zichtbaar
+- Een organisator kan van andere gebruikers organisatoren maken
+- Een gebruiker kan zijn agenda bekijken (voorbije/actieve/toekomstige spelletjes/sessies)
+- Een gebruiker kan commentaar geven op de kaartjes
+- Een organisator kan een thema clonen
+- Een organisator kan een sessie (+deelnemers) clonen
+- Een gebruiker kan notificaties ontvangen op de smartphone
+	- Kaartje te kiezen
+	- Aan de beurt
+	- Beurt timer loopt af
+	- ...
+- Een gebruiker kan kiezen of hij notificaties (en welke ==> lage prioriteit)
+- Een gebruiker kan zoeken naar thema's en diens sessies (zoeken op naam, omschrijving, tags)
+- Een gebruiker kan een sessie herbekijken (laatste screenshot)
+- Een organisator kan een link genereren en delen (laatste screenshot sessie, iedereen kan die sessie herbekijken)
+- Een organisator kan een dashboard voor een thema bekijken (analyse van meerdere sessies)
+	- Alle piramides tot 1 piramide brengen
+	- Correlaties tussen 2 paar kaartjes bekijken
+	- Clusteranalyse op de kaartjes
